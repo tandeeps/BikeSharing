@@ -39,7 +39,7 @@ The final model based on rfe3 with 7 variables is the simplest model which was b
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
-Created by [@tandeeps] - feel free to contact me!
+Created by @tandeeps - feel free to contact me!
 
 
 <!-- Optional -->
